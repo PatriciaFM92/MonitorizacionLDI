@@ -1,0 +1,1 @@
+En este directorio se encuentran los script realizados para llevar a cabo tareas remotas, como por ejemplo lanzar un navegador en la pantalla de la Raspberry Pi o rotar pantallas del navegador en remoto.
